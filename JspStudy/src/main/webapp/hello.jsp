@@ -9,8 +9,10 @@
 <body>
 <%
 String str="홍길동";
+//document.write("str=>"+str);
+
 //System.out.println("str="+str);
-out.println("<h1>"+hello+"</h1>");
+out.println("<h1>"+str+"</h1>");
 
 
 %>
