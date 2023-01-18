@@ -13,8 +13,8 @@ String str="홍길동";
 
 System.out.println("str="+str);
 out.println("<h1>"+str+"</h1>");
-
-
 %>
+<hr>
+str의 값 출력=<%=str%>
 </body>
 </html>
